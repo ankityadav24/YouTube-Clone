@@ -56,7 +56,7 @@ const PlayVideo = ({videoId}) => {
                 <p> this song very good i listen many time  best fav song in playlist  mja agya </p>
                 <div className='comment-action'>
                     <img src={like} alt='' />
-                    <span>255</span>
+                    <span>265</span>
                     <img src={dislike} alt='' />
 
                 </div>
