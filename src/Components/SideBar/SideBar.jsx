@@ -9,7 +9,7 @@ import tech from '../../assets/tech.png'
 import music from '../../assets/music.png'
 import blogs from '../../assets/blogs.png'
 import news from '../../assets/news.png'
-import jack from '../../assets/jack.png'
+import jack from '../../assets/ankit.jpg'
 import simon from '../../assets/simon.png'
 import tom from '../../assets/tom.png'
 import megon from '../../assets/megan.png'
@@ -50,16 +50,16 @@ const SideBar = ({sidebar,category,setCategory}) => {
 
             <h3>Subscribed</h3>
             <div className='side-link'>
-                <img src={jack} alt=""/><p>Jack</p>
+                <img src={jack} alt=""/><p>Ankit</p>
             </div>
             <div className='side-link'>
-                <img src={simon} alt=""/><p>hankrob</p>
+                <img src={simon} alt=""/><p>Rohit</p>
             </div>
             <div className='side-link'>
                 <img src={tom} alt=""/><p>Tom</p>
             </div>
             <div className='side-link'>
-                <img src={megon} alt=""/><p>5-minut Craft</p>
+                <img src={megon} alt=""/><p>Ruhi</p>
             </div>
             <div className='side-link'>
                 <img src={cameron} alt=""/><p>Nas Daily</p>
